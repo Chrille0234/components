@@ -1,3 +1,5 @@
+step 0. add the following code to your HTML file:
+```<script src="slider.js" defer></script>```
 step 1. add a container inside your HTML code. Place it where the slider should be. The container should have an id. For example:
 ```<div id="slider-container"><div>```
 step 2. make sure the id matches the one in the JS file on line 9. If it doesn't, change it in the JS file. for example:
