@@ -1,0 +1,4 @@
+.container *:not(p){
+    display: inline-block;
+}
+
